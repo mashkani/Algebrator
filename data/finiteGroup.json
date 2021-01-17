@@ -1,0 +1,10 @@
+{
+    "set": [
+        {"congruenceClass": 4},
+        {"congruenceClass": 5},
+        {"congruenceClass": 8},
+        {"congruenceClass": 2},
+        {"congruenceClass": 10}
+    ],
+    "operation": 1
+}
